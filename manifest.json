@@ -1,12 +1,11 @@
 {
-  "id": "merge-notes",
-  "name": "Merge Notes",
+  "id": "power-merge-notes",
+  "name": "Power Merge Notes",
   "version": "1.5.0",
   "minAppVersion": "1.5.0",
   "description": "Merge Markdown notes with heading-aware content, frontmatter, and Dataview handling, including automatic same-name duplicate cleanup.",
   "author": "Keith Pieper",
   "authorUrl": "https://www.keithpieper.com",
   "isDesktopOnly": false,
-  "main": "main.js"
 }
 
