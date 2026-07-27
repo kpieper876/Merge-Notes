@@ -6,6 +6,6 @@
   "description": "Merge Markdown notes with heading-aware content, frontmatter, and Dataview handling, including automatic same-name duplicate cleanup.",
   "author": "Keith Pieper",
   "authorUrl": "https://www.keithpieper.com",
-  "isDesktopOnly": false,
+  "isDesktopOnly": false
 }
 
