@@ -19,7 +19,7 @@ Merge Markdown notes into one while preserving useful structure. Merge Notes com
 
 ## Install
 
-Copy this folder to <vault>/.obsidian/plugins/merge-notes/, then enable **Merge Notes** under Settings → Community plugins.
+Copy this folder to <vault>/.obsidian/plugins/Power-Merge-Notes/, then enable **Power Merge Notes** under Settings → Community plugins.
 
 To build from source:
 
